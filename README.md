@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Raykazan
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+Hello, my name is Eviner, usually Raykazan is my gametag;
+I want to be part of the change, one line of code at time.
 - 📫 How to reach me: kaii_akaii@hotmail.com
 <!---
 Raykazan/Raykazan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
