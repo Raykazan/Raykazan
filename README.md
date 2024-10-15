@@ -7,7 +7,7 @@
 </div>
 
 <div align='center'>
-  <h3>Olá, me chamo Samuel Silvério e sou um <span style='color:green'>Desenvolvedor Back-End</span> que se aventura pelo Front</h3>
+  <h3>Olá, me chamo Eviner Santos e sou um <span style='color:green'>Desenvolvedor Back-End</span> que se aventura pelo Front</h3>
 </div>
 Hello, my name is Eviner, usually Raykazan is my gametag;
 I want to be part of the change, one line of code at time.
