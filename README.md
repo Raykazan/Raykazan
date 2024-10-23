@@ -8,6 +8,12 @@
 
 <div align='center'>
   <h3>Olá, me chamo Eviner Santos e sou um <span style='color:green'>Desenvolvedor Back-End</span> que se aventura pelo Front</h3>
+  <div align="center">
+
+
+<img src="https://raw.githubusercontent.com/raykazan/raykazan/output/snake.svg" alt="Snake animation" />
+
+###
 </div>
 Hello, my name is Eviner, usually Raykazan is my gametag;
 I want to be part of the change, one line of code at time.
